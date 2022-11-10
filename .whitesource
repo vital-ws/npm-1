@@ -1,4 +1,5 @@
 {
+"settingsInheritedFrom": "whitesource-config/whitesource-config@master",
   "scanSettings": {
     "configMode": "AUTOZ",
     "configExternalURL": "",

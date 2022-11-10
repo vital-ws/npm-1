@@ -1,7 +1,7 @@
 {
   "scanSettings": {
     "configMode": "EXTERNAL",
-    "configExternalURL": "",
+    "configExternalURL": "http://sdsfsd.com/",
     "baseBranches": [],
     "enableLicenseViolations":true,
     "enableIaC": true

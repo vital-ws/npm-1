@@ -1,3 +1,18 @@
 {
-  "settingsInheritedFrom": "vital-ws/whitesource-config@main"
+  "scanSettings": {
+    "configMode": "AUTO",
+    "configExternalURL": "",
+    "baseBranches": [],
+    "enableLicenseViolations":true,
+    "enableIaC": true
+  },
+  "checkRunSettings": {
+    "vulnerableCheckRunConclusionLevel": "failure",
+    "licenseCheckRunConclusionLevel": "failure",
+    "displayMode": "diff"
+  },
+  "issueSettings": {
+    "minSeverityLevel": "LOW",
+    "issueType":"DEPENDENCY"
+  }
 }

@@ -4,7 +4,8 @@
     "configExternalURL": "http://sdsfsd.com/",
     "baseBranches": [],
     "enableLicenseViolations":true,
-    "enableIaC": true
+    "enableIaC": true,
+    "projectToken": "qqq"
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",

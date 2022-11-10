@@ -1,7 +1,6 @@
 {
-"settingsInheritedFrom": "whitesource-config/whitesource-config@master",
   "scanSettings": {
-    "configMode": "AUTOZ",
+    "configMode": "EXTERNAL",
     "configExternalURL": "",
     "baseBranches": [],
     "enableLicenseViolations":true,

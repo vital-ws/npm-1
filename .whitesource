@@ -5,7 +5,7 @@
     "baseBranches": [],
     "enableLicenseViolations":true,
     "enableIaC": true,
-    "projectToken": "qqq"
+    "projectToken": "qqqaa"
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
